@@ -1,2 +1,2 @@
 # Jenkins-Freestyle-Demo
-My first repo for learning Jenkins.
+Testing the Poll SCM trigger! 🚀
